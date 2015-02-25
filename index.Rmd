@@ -1,0 +1,10 @@
+---
+output: html_document
+---
+
+# POLS 209 Pages
+
+* [Deadlines](EBP_deadlines.html)
+* [Schedule of lectures and list of readings](Schedule_of_Lectures_and_List_of_Readings.html)
+
+

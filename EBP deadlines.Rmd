@@ -1,0 +1,38 @@
+---
+title: "What's my EBP deadline?"
+output: html_document
+---
+```{r, echo=FALSE}
+library(lubridate)
+```
+
+You must post your EBPs to the blog (either http://politicalpathologies.blogspot.com or http://politicalpathologies2.blogspot.com, depending on which one you signed up to) by the deadlines indicated below. You need to sign up to the blog before your deadline by following the instructions on the e-mailed invite from [blogger](http://www.blogger.com); [contact me](mailto:xavier.marquez@vuw.ac.nz) if you did not receive the e-mail invite or are having trouble signing up or posting.
+
+This list of deadlines is current as of `r format(today(), format = "%A, %e %B %Y")`. 
+
+```{r, deadlines, echo=FALSE,warning=FALSE, message=FALSE, results='asis'}
+library(dplyr)
+library(scales)
+library(xtable)
+BB <- read.csv(dir(pattern="gc_2015"),fileEncoding ="UTF-8-BOM") %>% 
+  filter(Availability == "Yes") %>%
+  mutate(Last.Name, 
+         ID.ends = Student.ID %% 10) %>%
+  select(Last.Name,First.Name,Student.ID,ID.ends)
+
+lecture.dates <- read.csv("lecture.dates.csv") %>% 
+  mutate(start.date = mdy_hm(start.date)) %>%
+  select(start.date) %>%
+  mutate(ID.ends = c(NA,NA,0,9,1,8,2,7,NA,3,6,4,5,4,5,3,6,2,7,1,8,0,9)) %>%
+  rename(EBP.dates = start.date)
+
+ t <- left_join(BB,lecture.dates) %>% 
+  select(Last.Name,First.Name,ID.ends,EBP.dates) %>%
+  mutate(EBP.dates = format(EBP.dates, format = "%a, %e %B %Y at %H:%M")) %>% 
+  rename("Last name" = Last.Name, "First name" = First.Name, "ID ends in" = ID.ends, "EBP deadlines" = EBP.dates) 
+
+t <- xtable(t,digits=0,align = "rllcc")
+
+print(t, include.rownames=FALSE, type="html")
+```
+

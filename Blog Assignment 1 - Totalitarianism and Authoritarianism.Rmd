@@ -1,0 +1,46 @@
+---
+title: "Blog assignment 1: Totalitarianism, authoritarianism, and competitive authoritarianism"
+author: "Xavier Marquez"
+date: "Tuesday, February 24, 2015"
+output: html_document
+---
+
+# Week 2: The Non-Democratic Menagerie 1: Totalitarianism, Authoritarianism, and Competitive Authoritarianism
+
+This week's readings have to do with the 
+
+Everyone should at least try to figure out the key points of the basic readings. 
+## Basic readings:
+1.  Linz, Juan J. 2000. Totalitarian and Authoritarian Regimes. Boulder, CO: Lynne Rienner Publishers. Chapter 2: Totalitarianism. Pp. 65-142.
+2.	Levitsky, Steven, and Lucan Way. 2010. Competitive Authoritarianism: Hybrid Regimes after the Cold War. New York: Cambridge University Press. Chapter 1, pp. 3-36.
+
+## Additional readings (to be covered in EBPs by people whose IDs end in 0 or 9):
+3.	Rummel, Rudolph J. 1995. Democracy, Power, Genocide, and Mass Murder. The Journal of Conflict Resolution 39 (1): 3-26. http://www.jstor.org/stable/174320 
+4.	Sondrol, Paul C. 1991. Totalitarian and Authoritarian Dictators: A Comparison of Fidel Castro and Alfredo Stroessner. Journal of Latin American Studies 23 (03): 599-620. http://dx.doi.org/10.1017/S0022216X00015868 
+5.	Mainwaring, Scott. 2012. "From Representative Democracy to Participatory Competitive Authoritarianism: Hugo Chávez and Venezuelan Politics." Perspectives on Politics no. 10:955-967. http://dx.doi.org/10.1017/s1537592712002629
+6.	Ellner, Steve. 2010. Hugo Chavez's First Decade in Office. Latin American Perspectives 37 (1): 77-96. http://dx.doi.org/10.1177/0094582X09355429 
+7.	Corrales, Javier. 2011. A Setback for Chávez. Journal of Democracy 22 (1): 122-136. http://muse.jhu.edu/journals/journal_of_democracy/v022/22.1.corrales.html 
+8.	Smilde, David. 2015. The End of Chavismo? Current History 114 (769): 49-55. http://www.wola.org/sites/default/files/Venezuela/Smilde%20Current%20History--final.pdf 
+9.	Levitsky, Steven, and James Loxton. 2013. Populism and competitive authoritarianism in the Andes. Democratization 20 (1): 107-136. http://dx.doi.org/10.1080/13510347.2013.738864 
+10.	Krastev, Ivan, and Stephen Holmes. 2012. "An Autopsy of Managed Democracy." Journal of Democracy no. 23 (3):33-45. http://muse.jhu.edu/journals/journal_of_democracy/v023/23.3.krastev.html
+11.	Gandhi, Jennifer, and Ellen Okar. 2009. Elections Under Authoritarianism. Annual Review of Political Science 12 (1): 403-422. http://dx.doi.org/10.1146/annurev.polisci.11.060106.095434 
+
+The following people should submit their post to the blog on 
+
+```{r, peopleWithIDsEndingIn0, echo=FALSE}
+library(dplyr)
+BB <- read.csv(dir(pattern="gc_2015"),fileEncoding ="UTF-8-BOM") %>% 
+  filter(Availability == "Yes") %>%
+  mutate(Last.Name = paste0(abbreviate(Last.Name,minlength=1,strict=TRUE),".")) %>%
+  select(Last.Name,First.Name,Student.ID)
+
+BB %>% filter(Student.ID %% 10 == 0)
+
+```
+
+The following people (IDs ending in 9)
+```{r, peopleWithIDsEndingIn9, echo=FALSE}
+
+BB %>% filter(Student.ID %% 10 == 9)
+
+```
