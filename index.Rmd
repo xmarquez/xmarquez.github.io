@@ -6,5 +6,5 @@ output: html_document
 
 * [Deadlines for Explanatory Blog Posts, by last name](EBP_deadlines.html)
 * [Schedule of lectures and list of readings](Schedule_of_Lectures_and_List_of_Readings.html)
-* [Information for participants in Mock trial of Chavez](Information_for_Mock_Trial_Participatns.html)
+* [Information for participants in Mock trial of Chavez](Information_for_Mock_Trial_Participants.html)
 
