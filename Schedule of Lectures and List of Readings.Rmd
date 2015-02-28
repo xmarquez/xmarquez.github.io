@@ -1,13 +1,13 @@
 ---
 title: "POLS 209 Schedule of Lectures and List of Readings"
-output: html_document
+output: pdf_document
 ---
 
-Most of the readings listed below will be available in [this Dropbox folder](https://www.dropbox.com/sh/ritqdqlgpfbac3z/AAAtGBaKQGBJxHqof7jP9WIca?dl=0). (Password: POLS209)
+Most of the readings listed below will be available in [this Dropbox folder](https://www.dropbox.com/sh/ritqdqlgpfbac3z/AAAtGBaKQGBJxHqof7jP9WIca?dl=0) if no link is given. (Password: POLS209). Sometimes the links below will only work from Uni.
 
 This schedule lists two kinds of readings for each week of the term. First, a small number of readings are marked "basic." Everyone in the class is expected to be familiar with the key points of these readings; they contain the main concepts we will be discussing each week. If you cannot get through them (some may seem dry and painful, and some are rather long) you should at least pay careful attention to the weekly explanatory blog posts summarizing them. The exam will almost certainly make use of concepts and ideas contained in these readings.
 
-The schedule also lists a larger number of "additional readings" in each week. These are not required reading for most of the class, except the group of people whose turn it is to do an explanatory blog post that week (if any). Each person in that group (depends on the last digit of your student ID; check [this page](http://xmarquez.github.io/EBP_deadlines.html) to find your deadline) should select one of the readings for the week (required or additional) and write a blog post summarizing and discussing it. All readings -- basic and additional -- should be discussed in the blog every week.  
+The schedule also lists a larger number of "additional readings" in each week. These are not required reading for most of the class, except the group of people whose turn it is to do an explanatory blog post that week (if any). Each person in that group (depends on the last digit of your student ID; check [here](https://www.dropbox.com/s/qqv88nubda5m8sd/EBP_deadlines.html?dl=0) to find your deadline) should select one of the readings for the week (required or additional) and write a blog post summarizing and discussing it. All readings -- basic and additional -- should be discussed in the blog every week.  
 
 It's worth noting that the additional readings are often more fun than the basic readings. So even if it is not your turn to summarize one of the additional readings in the blog, you may still wish to take a look at one or more of them for your own edification.  
 
@@ -23,11 +23,13 @@ What distinguishes the many varieties of non-democratic rule from democracy? How
 
 ### Basic readings
 
-1.  Svolik, Milan. 2012. The Politics of Authoritarian Rule. Cambridge and New York: Cambridge University Press. Chapters 1-2 (pp. 1-50). Chapter 1 explores the distinctive problems that, in Svolik's view, non-democratic regimes face, and chapter 2 defines what he means by dictatorship and how to understand its varieties. Some of you may find it useful to take a look at chapter 2 *before* looking at chapter 1, since chapter 2 contains Svolik's definition of authoritarian rule and his defense of his particular way of distinguishing dictatorships from democracies.
+1.  Svolik, Milan. 2012. The Politics of Authoritarian Rule. Cambridge and New York: Cambridge University Press. Chapters 1-2 (pp. 1-50). 
+
+Chapter 1 explores the distinctive problems that, in Svolik's view, non-democratic regimes face, and chapter 2 defines what he means by dictatorship and how to understand its varieties. Some of you may find it useful to take a look at chapter 2 *before* looking at chapter 1, since chapter 2 contains Svolik's definition of authoritarian rule and his defense of his particular way of distinguishing dictatorships from democracies.
 
 ### Additional readings (optional)
 
-No one needs to summarize these readings for the blog; EBPs start in week 2. Nevertheless, you may wish to take a look at some of these pieces in order to understand what the regime classification exercise will require the class to do on a small scale; most of them describe different ways of distinguishing between democracies and non-democracies or among different kinds of non-democracies, and some critique specific approaches to the measurement of democracy and the classification of non-democratic forms of rule.
+No one needs to summarize these readings for the blog; [EBPs start in week 2](https://www.dropbox.com/s/qqv88nubda5m8sd/EBP_deadlines.html?dl=0). Nevertheless, you may wish to take a look at some of these pieces in order to understand what the regime classification exercise will require the class to do on a small scale; most of them describe different ways of distinguishing between democracies and non-democracies or among different kinds of non-democracies, and some critique specific approaches to the measurement of democracy and the classification of non-democratic forms of rule.
 
 1.	Gandhi, Jennifer. 2008. Political Institutions under Dictatorship: Cambridge University Press. Chapter 1, pp. 1-41. http://victoria.lconz.ac.nz/vwebv/holdingsInfo?bibId=1174304 Gandhi argues for a "minimalist" view of the distinction between democracy and non-democracy. Also contains some useful material on the history of the term "dictatorship."
 
@@ -57,29 +59,37 @@ Authoritarian regimes come in many forms. Today, the most prominent examples of 
 
 ### Basic readings:
 
-1.	Linz, Juan J. 2000. Totalitarian and Authoritarian Regimes. Boulder, CO: Lynne Rienner Publishers. Chapter 2: Totalitarianism. Pp. 65-142. Unfortunately most work on totalitarianism came in big books; outside of Wikipedia, there are few short treatments of the concept. This piece on totalitarianism by Juan Linz is extremely comprehensive (Linz had an encyclopedic knowledge of the politics of many countries), but it is also quite dry and very long. It also assumes some knowledge of history you may not have. If you run into difficulties reading it, try to at least get the basic points of the piece. Consider, in particular, the following questions: What are the key characteristics of totalitarianism? Which characteristics are essential to the concept, and which are not? What are some examples of totalitarian regimes? How did their politics differ from the politics of other non-democratic regimes? 
+1.	Linz, Juan J. 2000. Totalitarian and Authoritarian Regimes. Boulder, CO: Lynne Rienner Publishers. Chapter 2: Totalitarianism. Pp. 65-142. 
 
-2.	Levitsky, Steven, and Lucan Way. 2010. Competitive Authoritarianism: Hybrid Regimes after the Cold War. New York: Cambridge University Press. Chapter 1, pp. 3-36. Levitsky and Way coined the term "competitive authoritarianism" in an earlier article. This is the introduction of a book discussing all examples of competitive authoritarianism that emerged in the 1990s. Levitsky and Way have a distinctive theory of competitive authoritarianism: what it is, how it emerges, and how competitive authoritarian regimes become democratized. Consider, in particular, what distinguishes such regimes from democracies and from other authoritarian regimes, as well as what they say about the factors that promote their stability or democratization. 
+Unfortunately most work on totalitarianism came in big books; outside of Wikipedia, there are few short treatments of the concept. This piece on totalitarianism by Juan Linz is extremely comprehensive (Linz had an encyclopedic knowledge of the politics of many countries), but it is also quite dry and very long. It also assumes some knowledge of history you may not have. If you run into difficulties reading it, try to at least get the basic points of the piece. Consider, in particular, the following questions: What are the key characteristics of totalitarianism? Which characteristics are essential to the concept, and which are not? What are some examples of totalitarian regimes? How did their politics differ from the politics of other non-democratic regimes? 
+
+2.	Levitsky, Steven, and Lucan Way. 2010. Competitive Authoritarianism: Hybrid Regimes after the Cold War. New York: Cambridge University Press. Chapter 1, pp. 3-36. 
+
+Levitsky and Way coined the term "competitive authoritarianism" in [an earlier article](http://muse.jhu.edu/journals/journal_of_democracy/v013/13.2levitsky.html), which you may find useful to peruse if this piece proves too heavy. This is the introduction of a book discussing all examples of competitive authoritarianism that emerged in the 1990s. Levitsky and Way have a distinctive theory of competitive authoritarianism: what it is, how it emerges, and how competitive authoritarian regimes become democratized. Consider, in particular, what distinguishes such regimes from democracies and from other authoritarian regimes, as well as what they say about the factors that promote their stability or democratization. 
 
 ### Additional readings
 
-The following readings need to be covered in EBPs by people whose IDs end in 0 (Tuesday) or 9 (Friday). See here for more details.
+The following readings need to be covered in EBPs by people whose IDs end in 0 (Tuesday) or 9 (Friday). See [here for more details](https://www.dropbox.com/s/9jdenv7kwpubpwt/Blog_Assignment_1_-_Totalitarianism_and_Authoritarianism.pdf?dl=0).
 
-3.	Rummel, Rudolph J. 1995. Democracy, Power, Genocide, and Mass Murder. The Journal of Conflict Resolution 39 (1): 3-26. http://www.jstor.org/stable/174320 Argues that totalitarian regimes have been responsible for the main cases of genocide and politicide in the world. 
+1.	Rummel, Rudolph J. 1995. Democracy, Power, Genocide, and Mass Murder. The Journal of Conflict Resolution 39 (1): 3-26. http://www.jstor.org/stable/174320 Argues that totalitarian regimes have been responsible for the main cases of genocide and politicide in the world. 
 
-4.	Sondrol, Paul C. 1991. Totalitarian and Authoritarian Dictators: A Comparison of Fidel Castro and Alfredo Stroessner. Journal of Latin American Studies 23 (03): 599-620. http://dx.doi.org/10.1017/S0022216X00015868 An attempt to distinguish between authoritarian and totalitarian dictators in two Latin American cases.
+2. Kershaw, Ian. 1993. ‘Working Towards the Führer.’ Reflections on the Nature of the Hitler Dictatorship. Contemporary European History 2 (02): 103-118. http://www.jstor.org/stable/20081474
 
-5.	Mainwaring, Scott. 2012. "From Representative Democracy to Participatory Competitive Authoritarianism: Hugo Chávez and Venezuelan Politics." Perspectives on Politics no. 10:955-967. http://dx.doi.org/10.1017/s1537592712002629 The Chavez regime in Venezuela has been the object of much controversy. Was it/is it/did it become authoritarian at some point since the moment Chavez came to power in 1997? Why might some people think the Chavez regime became "competitive authoritarian" at some point? Useful for our "mock trial" later in the course; also contains some discussion of how the Chavez regime emerged.
+3.	Sondrol, Paul C. 1991. Totalitarian and Authoritarian Dictators: A Comparison of Fidel Castro and Alfredo Stroessner. Journal of Latin American Studies 23 (03): 599-620. http://dx.doi.org/10.1017/S0022216X00015868 An attempt to distinguish between authoritarian and totalitarian dictators in two Latin American cases.
 
-6.	Ellner, Steve. 2010. Hugo Chavez's First Decade in Office. Latin American Perspectives 37 (1): 77-96. http://dx.doi.org/10.1177/0094582X09355429 Another piece on the Chavez regime, by someone very sympathetic to the Chavista project. What do people who defended the Chavez regime's "democratic credentials" focus on? Note that the piece was published in 2010; things continued to evolve since then.
+4. Havel, Vaclav (1992). “The Power of the Powerless” In Open Letters, pp. 125-153. New York: Vintage Books (available here, http://vaclavhavel.cz/showtrans.php?cat=eseje&val=2_aj_eseje.html&typ=HTML). Havel was a Czechoslovak dissident who eventually (after the Velvet revolution) became president of Czechoslovakia. This was written from prison - the "greengrocer parable" is still a great way of understanding totalitarianism. 
 
-7.	Corrales, Javier. 2011. A Setback for Chávez. Journal of Democracy 22 (1): 122-136. http://muse.jhu.edu/journals/journal_of_democracy/v022/22.1.corrales.html A much less sympathetic take on Chavez from 2011. Again, note that things continued to evolve since the piece was published.
+5. Blaydes, Lisa. 2010. Elections and Distributive Politics in Mubarak's Egypt. Cambridge University Press. Chapter 1 is a good description of authoritarianism in Egypt. Was Egypt a competitive authoritarian regime, or just plain authoritarian?
 
-8.	Smilde, David. 2015. The End of Chavismo? Current History 114 (769): 49-55. [http://www.wola.org/sites/default/files/Venezuela/Smilde%20Current%20History--final.pdf](http://www.wola.org/sites/default/files/Venezuela/Smilde%20Current%20History--final.pdf) An account of very recent developments in the regime. (Recall Chavez died at the end of 2013)
+6.  Magaloni, Beatriz. 2006. Voting for Autocracy: Hegemonic Party Survival and its Demise in Mexico. Cambridge University Press. Chapter 1 describes a theory of how elections can help sustain authoritarianism, with a particular focus on Mexico. 
 
-9.	Levitsky, Steven, and James Loxton. 2013. Populism and competitive authoritarianism in the Andes. Democratization 20 (1): 107-136. http://dx.doi.org/10.1080/13510347.2013.738864 A broader look at the intersection between populism and competitive authoritarianism in Latin America.
+7.	Mainwaring, Scott. 2012. "From Representative Democracy to Participatory Competitive Authoritarianism: Hugo Chávez and Venezuelan Politics." Perspectives on Politics no. 10:955-967. http://dx.doi.org/10.1017/s1537592712002629 The Chavez regime in Venezuela has been the object of much controversy. Was it/is it/did it become authoritarian at some point since the moment Chavez came to power in 1997? Why might some people think the Chavez regime became "competitive authoritarian" at some point? Useful for our "mock trial" later in the course; also contains some discussion of how the Chavez regime emerged.
 
-10.	Krastev, Ivan, and Stephen Holmes. 2012. "An Autopsy of Managed Democracy." Journal of Democracy no. 23 (3):33-45. http://muse.jhu.edu/journals/journal_of_democracy/v023/23.3.krastev.html Competitive authoritarianism in Russia. What are elections for in Russia? With some fun quotes.
+8.	Levitsky, Steven, and James Loxton. 2013. Populism and competitive authoritarianism in the Andes. Democratization 20 (1): 107-136. http://dx.doi.org/10.1080/13510347.2013.738864 A broader look at the intersection between populism and competitive authoritarianism in Latin America.
+
+9.	Krastev, Ivan, and Stephen Holmes. 2012. "An Autopsy of Managed Democracy." Journal of Democracy no. 23 (3):33-45. http://muse.jhu.edu/journals/journal_of_democracy/v023/23.3.krastev.html Competitive authoritarianism in Russia. What are elections for in Russia? With some fun quotes. This more popular piece by Krastev is also thought-provoking: "Is China more democratic than Russia?" http://www.opendemocracy.net/odrussia/ivan-krastev/is-china-more-democratic-than-russia
+
+10. Kendall-Taylor, Andrea, and Erica Frantz. 2015. Mimicking Democracy to Prolong Autocracies. The Washington Quarterly 37 (4): 71-84. http://dx.doi.org/10.1080/0163660X.2014.1002155 Why might the use of "democratic" facades help prolong authoritarianism?
 
 ## Week 3: Personal Rule
 
@@ -93,7 +103,11 @@ Continuation of the discussion of personal rule.
 
 ### Basic readings
 
-1.	Jackson, Robert H., and Carl G. Rosberg. 1982. Personal rule in Black Africa: prince, autocrat, prophet, tyrant. Berkeley: University of California Press. Chapter 2: The Political System of Personal Rule, pp. 14-82. A bit long but very instructive. Discusses a wide variety of post-independence African rulers. If you wish to keep straight the many names mentioned here, the last few pages of the article contain an appendix with a useful timeline. You may also find the [graphical country histories here](https://github.com/xmarquez/political-instability-at-a-glance/tree/master/Histories%20of%20instability) useful. 
+1.	Jackson, Robert H., and Carl G. Rosberg. 1982. Personal rule in Black Africa: prince, autocrat, prophet, tyrant. Berkeley: University of California Press. Chapter 2: The Political System of Personal Rule, pp. 14-82. 
+
+A bit long but very instructive. Discusses a wide variety of post-independence African rulers. If you wish to keep straight the many names mentioned here, the last few pages of the article contain an appendix with a useful timeline. You may also find the [graphical country histories here](https://github.com/xmarquez/political-instability-at-a-glance/tree/master/Histories%20of%20instability) useful.
+
+Instead of reading the Jackson and Rosberg piece, you may instead read the Chehabi and Linz piece on "Sultanism" (in the additional readings); they cover similar ground, but use different examples (mostly from Latin America) and have different views of the genesis and workings of personal rule. 
 
 ### Additional readings 
 
@@ -105,7 +119,7 @@ The following readings need to be covered in EBPs by people whose IDs end in 1 (
 
 3.	Young, Crawford. 1994. Zaïre: the Shattered Illusion of the Integral State. The Journal of Modern African Studies 32 (02): 247-263. http://dx.doi.org/10.1017/S0022278X0001274X A more scholarly historical account of the roots of the Mobutu regime. 
 
-4.	Decalo, Samuel. 1985. African Personal Dictatorships. The Journal of Modern African Studies 23 (2): 209-237. http://www.jstor.org/stable/160571 An account of three dreadful personal tyrannies in Africa in the 1970s: Bokassa in the Central African Republic, Idi Amin in Uganda, and Macias Nguema in Equatorial Guinea. Warning: lurid content at times. Contains murder, cannibalism, and other assorted mayhem.
+4.	Decalo, Samuel. 1985. African Personal Dictatorships. The Journal of Modern African Studies 23 (2): 209-237. http://www.jstor.org/stable/160571 An account of three dreadful personal tyrannies in Africa in the 1970s: Bokassa in the Central African Republic, Idi Amin in Uganda, and Macias Nguema in Equatorial Guinea. Warning: lurid content. Contains murder, cannibalism, and other assorted mayhem.
 
 5.	El-Kikhia, Mansour O. 1997. Libya's Qaddafi: the Politics of Contradiction. Gainesville: University Press of Florida. Chapter 5. The Qaddafi regime in the mid-1990s. Was Qaddafi a personal ruler? Was he a revolutionary? Does it matter? 
 
@@ -113,11 +127,11 @@ The following readings need to be covered in EBPs by people whose IDs end in 1 (
 
 7.	Sebestyen, Victor. 2010. Revolution 1989: The Fall of the Soviet Empire. New York: Knopf Doubleday. Chapter 16, on Ceauşescu. This is a very well written journalistic account of the last years of the Ceauşescu regime in Romania. Was Ceauşescu a personal ruler?
 
-8. Hartlyn, Jonathan. 1998. "The Trujillo Regime in the Dominican Republic." In Sultanistic regimes, eds. Houchang E. Chehabi and Juan J. Linz. Baltimore: JHU Press. 85-112. An account of the Trujillo regime in the Dominican republic.
+8. Hartlyn, Jonathan. 1998. "The Trujillo Regime in the Dominican Republic." In Sultanistic regimes, eds. Houchang E. Chehabi and Juan J. Linz. Baltimore: JHU Press. 85-112. An account of the Trujillo regime in the Dominican republic. In fact, any other country study in this book would be fine; there are studies on the Duvaliers, on Batista, the Shah of Iran, etc. 
 
-9. Nicholls, David. 1998. "The Duvalier Regime in Haiti." In Sultanistic regimes, eds. Houchang E. Chehabi and Juan J. Linz. Baltimore: JHU Press. 153-181.
+9. Nicholls, David. 1998. "The Duvalier Regime in Haiti." In Sultanistic regimes, eds. Houchang E. Chehabi and Juan J. Linz. Baltimore: JHU Press. 153-181. An account of the Duvalier regime in Haiti. In fact, any other country study in this book would be fine.
 
-11. Chehabi, Houchang E., and Juan J. Linz. 1998. "A Theory of Sultanism 1: A Type of Nondemocratic Rule." In Sultanistic regimes, eds. Houchang E. Chehabi and Juan J. Linz. Baltimore: JHU Press. 3-25.
+10. Chehabi, Houchang E., and Juan J. Linz. 1998. "A Theory of Sultanism 1: A Type of Nondemocratic Rule" and "A Theory of Sultanism 2: Genesis and Demise of Sultanistic Regimes." In Sultanistic regimes, eds. Houchang E. Chehabi and Juan J. Linz. Baltimore: JHU Press. 3-48.
 
 ## Week 4: Institutional Rule: Militaries, Parties, and Families
 
@@ -141,11 +155,11 @@ A small but geopolitically significant number of regimes (such as Saudi Arabia) 
 
 The following readings need to be covered in EBPs by people whose IDs end in 2 (Tuesday) or 7 (Friday). See here for more details.
 
-4.  Svolik, Milan. 2012. The Politics of Authoritarian Rule. Cambridge and New York: Cambridge University Press. Chapter 5, pp. 123-138, has an important theory of the conditions for military intervention. Chapter 6, pp. 162ff. discusses parties in non-democratic regimes, though the discussion gets quite technical at times.
+4.  Svolik, Milan. 2012. The Politics of Authoritarian Rule. Cambridge and New York: Cambridge University Press. Chapter 5, pp. 123-138, has an important theory of the conditions that enable military intervention. Chapter 6, pp. 162ff. discusses parties in non-democratic regimes, though the discussion gets quite technical at times (a bit of perhaps unnecessary math; skim as needed).
 
-5.	Brooker, Paul. 2014. Non-democratic regimes. Third edition. Houndmills: Palgrave Macmillan. Chapter 3: Establishing Military Rule. 
+5.	Brooker, Paul. 2014. Non-democratic regimes. Third edition. Houndmills: Palgrave Macmillan. Chapter 3: Establishing Military Rule. Summarizes various theories of when military rule is established.
 
-6.	Monday, Chris. 2011. Family Rule as the Highest Stage of Communism. Asian Survey 51 (5): 812-843. Are regimes like the North Korean regime really monarchies in disguise?
+6.	Monday, Chris. 2011. Family Rule as the Highest Stage of Communism. Asian Survey 51 (5): 812-843. http://www.jstor.org/stable/10.1525/as.2011.51.5.812 Are regimes like the North Korean regime really monarchies in disguise?
 
 7.	Constable, Pamela and Arturo Valenzuela. 1993. A nation of enemies: Chile under Pinochet. WW Norton & Company. Chapters 1 and 3. Chapter 3 is a well written account of Pinochet's military dictatorship; read chapter 1 to get a sense of the background to the coup.
 
@@ -153,13 +167,26 @@ The following readings need to be covered in EBPs by people whose IDs end in 2 (
 
 9.	Yom, Sean, and Gregory Gause. 2012. "Resilient Royals: How Arab Monarchies Hang On." Journal of Democracy no. 23 (4):74-88. http://muse.jhu.edu/journals/journal_of_democracy/v023/23.4.yom.html A different theory of why the Arab monarchies hang on than the one offered by Herb.
 
-10.	Gandhi, Jennifer, and Ellen Okar. 2009. Elections Under Authoritarianism. Annual Review of Political Science 12 (1): 403-422. http://dx.doi.org/10.1146/annurev.polisci.11.060106.095434 A review of the literature on the functions of elections under authoritarianism. What are elections for when you don't plan to compete fairly? A bit dry and academic.
+10.	Grzymała-Busse, Anna. 2001. The Organizational Strategies of Communist Parties in East Central Europe, 1945-1989. East European Politics & Societies 15 (2): 421-453. http://eep.sagepub.com/content/15/2/421.short A useful background on how party rule worked in Eastern Europe. Pair it with Part I of "1989" by Sebatyen which contains the more fun narrative and journalistic account of life in these regimes. 
+
+11. Gandhi, Jennifer, and Ellen Okar. 2009. Elections Under Authoritarianism. Annual Review of Political Science 12 (1): 403-422. http://dx.doi.org/10.1146/annurev.polisci.11.060106.095434 A review of the literature on the functions of elections under authoritarianism. What are elections for when you don't plan to compete fairly? A bit dry and academic; summarize the main points.
+
 
 ## Week 5: Hugo Chavez Mock Trial 
 
 **Lecture 9: Tuesday, 31 March 2015: Hugo Chavez Mock Trial**
 
-No reading assigned, though it may be useful for you to review the readings on Venezuela (week 2) in preparation for the mock trial. I have also recorded a lecture on Venezuela (available via Blackboard) that you may find useful to consult before the mock trial.
+This is a short week. We will use the lecture period to conduct a "mock trial" of the late and controversial president Hugo Chavez of Venezuela. Instructions for participants are [available here](http://xmarquez.github.io/Information_for_Mock_Trial_Participants.html).
+
+No one needs to do EBPs this week, though the following should be useful preparation for the Mock Trial (and who knows, if someone does summarize these readings, I may provide commensurate benefits):
+
+1.	Ellner, Steve. 2010. Hugo Chavez's First Decade in Office. Latin American Perspectives 37 (1): 77-96. http://dx.doi.org/10.1177/0094582X09355429 Another piece on the Chavez regime, by someone very sympathetic to the Chavista project. What do people who defended the Chavez regime's "democratic credentials" focus on? Note that the piece was published in 2010; things continued to evolve since then.
+
+2.	Corrales, Javier. 2011. A Setback for Chávez. Journal of Democracy 22 (1): 122-136. http://muse.jhu.edu/journals/journal_of_democracy/v022/22.1.corrales.html A much less sympathetic take on Chavez from 2011. Again, note that things continued to evolve since the piece was published.
+
+3.	Smilde, David. 2015. The End of Chavismo? Current History 114 (769): 49-55. [http://www.wola.org/sites/default/files/Venezuela/Smilde%20Current%20History--final.pdf](http://www.wola.org/sites/default/files/Venezuela/Smilde%20Current%20History--final.pdf) An account of very recent developments in the regime. (Recall Chavez died at the end of 2013). 
+
+I have also recorded a lecture on Venezuela (available via Blackboard) that you may find useful to listen to before the mock trial.
 
 # Easter and midterm break: No class on Friday 3 April #
 
@@ -189,7 +216,11 @@ Continuing the discussion of how non-democratic regimes deal with emerging threa
 
 The following readings need to be covered in EBPs by people whose IDs end in 3 (Tuesday) or 6 (Friday). See here for more details.
 
-4.	Wedeen, Lisa. 1998. "Acting: Symbolic Politics and Social Control in Syria." Comparative Studies in Society and History no. 40 (03):503-523. http://dx.doi.org/10.1017/s0010417598001388 A neat account of how the cult of personality really worked in the Syria of Hafez al-Assad.
+1.	Wedeen, Lisa. 1998. "Acting: Symbolic Politics and Social Control in Syria." Comparative Studies in Society and History no. 40 (03):503-523. http://dx.doi.org/10.1017/s0010417598001388 A neat account of how the cult of personality really worked in the Syria of Hafez al-Assad.
+
+2. Rød, Espen Geelmuyden, and Nils B Weidmann. 2015. Empowering activists or autocrats? The Internet in authoritarian regimes. Journal of Peace Research. http://jpr.sagepub.com/content/early/2015/02/12/0022343314555782.abstract Contains statistical analysis. Skim as needed.
+
+3. Escribà-Folch, Abel. 2013. Repression, political threats, and survival under autocracy. International Political Science Review 34 (5): 543-560. Contains statistical analysis.
 
 5.	Demick, Barbara. 2009. Nothing to Envy: Ordinary Lives in North Korea: Spiegel & Grau. Chapter 6, pp. 90-102. A moving account of North Korean experiences of living under the cult of the Kims. 
 
@@ -197,7 +228,7 @@ The following readings need to be covered in EBPs by people whose IDs end in 3 (
 
 7.	Bennett, Philip, and Moises Naim. 2015. "21st-century censorship: Governments around the world are using stealthy strategies to manipulate the media." Columbia Journalism Review, January/February. http://www.cjr.org/cover_story/21st_century_censorship.php?page=all&print=true#sthash.TezY0Nsq.dpuf The many ways in which authoritarian rulers manage the media today. 
 
-8.	Egorov, Georgy, Sergei Guriev, and Konstantin Sonin. 2009. Why Resource-poor Dictators Allow Freer Media: A Theory and Evidence from Panel Data. American Political Science Review 103 (04): 645-668. http://dx.doi.org/10.1017/s0003055409990219 Contains complex statistical analysis.
+8.	Egorov, Georgy, Sergei Guriev, and Konstantin Sonin. 2009. Why Resource-poor Dictators Allow Freer Media: A Theory and Evidence from Panel Data. American Political Science Review 103 (04): 645-668. http://dx.doi.org/10.1017/s0003055409990219 Contains complex statistical analysis. Skim as needed.
 
 9.	Leese, Daniel. 2007. The Mao Cult as Communicative Space. Totalitarian Movements and Political Religions 8 (3-4): 623-639. http://dx.doi.org/10.1080/14690760701571247 A good discussion of the Mao cult in China. I've written on the Mao cult, based on Leese's reasearch, at some length [here](http://abandonedfootnotes.blogspot.com/2012/10/ten-thousand-melodies-cannot-express.html).
 
@@ -211,19 +242,24 @@ Non-democratic rule is sometimes justified by saying that dictatorship is better
 
 **Lecture 13: Friday, 1 May 2015: When are non-democracies better than democracies?**
 
-While most non-democratic regimes appear to be as bad or worse than most democracies, some display stellar performance on some metrics. What makes some non-democratic regimes "successful"?
+Some non-democratic regimes appear to do very well on some metrics (e.g., economic growth, low repression). What makes some non-democratic regimes "successful"? What distinguishes them from "unsuccessful" regimes?
 
 **Deadline: 1 May, Vote for classification system proposal**
 
 ### Basic readings
 
-1.	Bueno de Mesquita, Bruce, James Morrow, Randolph Siverson, and Alastair Smith. 2001. "Political Competition and Economic Growth." Journal of Democracy no. 12 (1):58-72. http://muse.jhu.edu/journals/journal_of_democracy/v012/12.1mesquita.html A simple theory for why we might expect non-democratic regimes to be worse than more non-democratic regimes at promoting economic development. How should we evaluate this theory?
+1.	Bueno de Mesquita, Bruce, James Morrow, Randolph Siverson, and Alastair Smith. 2001. "Political Competition and Economic Growth." Journal of Democracy no. 12 (1):58-72. http://muse.jhu.edu/journals/journal_of_democracy/v012/12.1mesquita.html A simple theory for why we might expect non-democratic regimes to be worse than more non-democratic regimes at promoting economic development. How should we evaluate this theory? How useful is it, given what we know about non-democratic regimes thus far?
 
 ### Additional readings
 
 The following readings need to be covered in EBPs by people whose IDs end in 4 (Tuesday) or 5 (Friday). See here for more details.
 
-2.	Easterly, William. 2011. "Benevolent Autocrats." http://williameasterly.files.wordpress.com/2011/05/benevolent-autocrats-easterly-2nd-draft.pdf Argues that benvolent autocrats do not really exist, on the basis of statistical evidence. The final section speculates about why the idea nevertheless seems so popular.
+1.	Easterly, William. 2011. "Benevolent Autocrats." http://williameasterly.files.wordpress.com/2011/05/benevolent-autocrats-easterly-2nd-draft.pdf Argues that benvolent autocrats do not really exist, on the basis of statistical evidence. The final section speculates about why the idea nevertheless seems so popular.
+
+2. Davenport, Christian. 2007. State Repression and the Tyrannical Peace. Journal of Peace Research 44 (4): 485-504. http://jpr.sagepub.com/content/44/4/485.abstract Which autocracies are more or less repressive? Which violate human rights more? Contains statistical analysis. 
+
+2. Davenport, Christian. 2012. When democracies kill: Reflections from the US, India, and Northern Ireland. International Area Studies Review 15 (1): 3-20. http://ias.sagepub.com/content/15/1/3.abstract When are democracies highly repressive? Also useful: Davenport, Christian. 1997. From ballots to bullets: an empirical assessment of how national elections influence state uses of political repression. Electoral Studies 16 (4): 517-540.  http://www.sciencedirect.com/science/article/pii/S0261379497000322 and Davenport, Christian, and David A. Armstrong. 2004. Democracy and the Violation of Human Rights: A Statistical Analysis from 1976 to 1996. American Journal of Political Science 48 (3): 538-554.
+http://dx.doi.org/10.1111/j.0092-5853.2004.00086.x These two other pieces contain statistical analysis.
 
 3.	Haber, Stephen. 2006. "Authoritarian Government." In The Oxford Handbook of Political Economy, eds. Barry Weingast and Donald Wittman. Oxford: Oxford University Press. 693-707. Provides a more complex theory than the one in the Bueno de Mesquita piece for why some non-democratic regimes appear to be pretty successful economically.
 
@@ -231,29 +267,37 @@ The following readings need to be covered in EBPs by people whose IDs end in 4 (
 
 5.	Verweij, Marco, and Riccardo Pelizzo. 2009. Singapore: Does Authoritarianism Pay? Journal of Democracy 20 (2): 18-32. A critique of the authoritarian approach to economic development in Singapore.
 
-6.	Ross, Michael. 2006. Is Democracy Good for the Poor? American Journal of Political Science 50 (4). http://dx.doi.org/10.2307/4122920 
+6.	Ross, Michael. 2006. Is Democracy Good for the Poor? American Journal of Political Science 50 (4). http://dx.doi.org/10.2307/4122920 Contains statistical analysis. 
 
 7.	Bermeo, Nancy. 2009. Does Electoral Democracy Boost Economic Equality? Journal of Democracy 20 (4): 21-35. http://muse.jhu.edu/journals/journal_of_democracy/v020/20.4.bermeo.html 
 
 8.	Knutsen, Carl. 2010. Investigating the Lee thesis: how bad is democracy for Asian economies? European Political Science Review 2 (03): 451-473. http://dx.doi.org/10.1017/s1755773910000214 
 
-9.	Blaydes, Lisa, and Mark Kayser. 2011. Counting Calories: Democracy and Distribution in the Developing World. International Studies Quarterly 55 (4): 887-908. http://dx.doi.org/10.1111/j.1468-2478.2011.00692.x 
+10. Almeida, Heitor, and Daniel Ferreira. 2002. Democracy and the Variability of Economic Performance. Economics & Politics 14 (3): 225-257. http://dx.doi.org/10.1111/1468-0343.00107 Contains complex statistical analysis. Skim as needed.
 
 ## Week 8: Culture and Authoritarianism
 
 **Lecture 14: Tuesday, 5 May 2015: Are non-democratic forms of government better suited for some cultures than democratic forms of government?**
 
+There has been a big debate about whether "culture," broadly defined, matters to whether or not a country has democratic or authoritarian governments. Many people have doubted whether democracy is appropriate to Muslim or East Asian countries. Are there some cultures that are better "suited" to non-democratic government? What aspects of culture might (or might not) make a country well suited to non-democratic government? How would we know it's "culture" rather than something else that makes a country well suited to some particular form of government?
+
 **Lecture 15: Friday, 8 May 2015: Are some cultures more prone to non-democratic forms of government?**
+
+The discussion of non-democracy and culture typically runs together two different issues: whether some form of non-democratic government is legitimate in some countries, and whether some cultural conditions simply make democratic government difficult to establish. The latter is the "prerequisites of democracy" debate. Are there cultural prerequisites for the establishment of successful democracy? Are there cultural prerequisites for successful authoritarianism, for that matter?
 
 ### Basic readings
 
-1.	Przeworski, Adam. 1998. "Culture and Democracy." In World Culture Report: Culture, Creativity, and Markets, 125-146. UNESCO.
+1.	Przeworski, Adam. 1998. "Culture and Democracy." In World Culture Report: Culture, Creativity, and Markets, 125-146. UNESCO. 
 
 ### Additional readings
 
 The following readings need to be covered in EBPs by people whose IDs end in 4 (Tuesday) or 5 (Friday). See here for more details.
 
-2.	Inglehart, Ronald. 2003. "How Solid Is Mass Support for Democracy: And How Can We Measure It?" PS: Political Science and Politics no. 36 (1):51-57. http://www.jstor.org/stable/3649345, http://dx.doi.org/10.2307/3649345
+1.	Inglehart, Ronald. 2003. "How Solid Is Mass Support for Democracy: And How Can We Measure It?" PS: Political Science and Politics no. 36 (1):51-57. http://www.jstor.org/stable/3649345, http://dx.doi.org/10.2307/3649345
+
+2.  Shi, Tianjian. 2008. "Democratic Values Supporting an Authoritarian System." In How East Asians View Democracy, eds. Yun-han Chu, Larry Diamond, Andrew J. Nathan and Doh Chull Shin. Chapter 9, pp. 209-237.
+
+3.  Wang, Zhengxu. 2007. Public Support for Democracy in China. Journal of Contemporary China 16 (53): 561-579. http://dx.doi.org/10.1080/10670560701562283
 
 3.	Emmerson, Donald. 1995. Singapore and the "Asian Values" Debate. Journal of Democracy 6 (4): 95-105. http://muse.jhu.edu/journals/journal_of_democracy/v006/6.4emmerson.html 
 
@@ -269,41 +313,60 @@ The following readings need to be covered in EBPs by people whose IDs end in 4 (
 
 9.	Harmel, Robert, and Alexander Tan. 2012. One-party rule or multiparty competition? Chinese attitudes to party system alternatives. Party Politics 18 (3): 337-347. http://dx.doi.org/10.1177/1354068810382934 
 
+10. Hadenius, Axel, and Jan Teorell. 2005. Cultural and economic prerequisites of democracy: Reassessing recent evidence. Studies in Comparative International Development (SCID) 39 (4): 87-106-106. http://dx.doi.org/10.1007/BF02686166
+
+11. Cho, Youngho. 2012. How well ordinary citizens understand democracy: the case of the South Korean electorate. Democratization 21 (2): 195-219. http://dx.doi.org/10.1080/13510347.2012.734808
+
+
 ## Week 9: Regime Change
 
 **Lecture 16: Tuesday, 12 May 2015: Regime change simulation**
 
+In order to understand better the factors that produce regime change, we'll use this lecture to play a simulation game. More information on how to prepare for the simulation will be available on Blackboard.
+
 **Lecture 17: Friday, 15 May 2015: What factors are most important in explaining regime change?**
+
+In this lecture, we'll compare what we learn from the simulation with what scholars have argued about the key factors that promote regime change. What factors promote regime change, and what factors promote regime continuity?
 
 ### Basic readings:
 
-1.	Acemoglu, Daron, and James Robinson. 2006. Economic Origins of Dictatorship and Democracy. Cambridge: Cambridge University Press. Pp. 1-47, 51-75.
+1.	Acemoglu, Daron, and James Robinson. 2006. Economic Origins of Dictatorship and Democracy. Cambridge: Cambridge University Press. Pp. 1-47, 51-75. Proposes a very general theory that points to inequality as the key factor that influences regime change.
 
 ### Additional readings
 
 The following readings need to be covered in EBPs by people whose IDs end in 3 (Tuesday) or 6 (Friday). See here for more details.
 
-2.	Valenzuela, Arturo. 1989. "Chile: Origins, Consolidation, and Breakdown of a Democratic Regime." In Democracy in Developing Countries, edited by Larry Diamond, Juan Linz and Seymour Lipset, 159-206. Lynne Rienner Publishers.
+1.	Valenzuela, Arturo. 1989. "Chile: Origins, Consolidation, and Breakdown of a Democratic Regime." In Democracy in Developing Countries, edited by Larry Diamond, Juan Linz and Seymour Lipset, 159-206. Lynne Rienner Publishers.
 
-3.	Przeworski, Adam. 2009. Conquered or Granted? A History of Suffrage Extensions. British Journal of Political Science 39 (02): 291-321. http://dx.doi.org/10.1017/s0007123408000434 
+2.	Przeworski, Adam. 2009. Conquered or Granted? A History of Suffrage Extensions. British Journal of Political Science 39 (02): 291-321. http://dx.doi.org/10.1017/s0007123408000434 Contains statistical analysis.
 
-3.	Gill, Graeme. 2006. A new turn to authoritarian Rule in Russia? Democratization 13 (1): 58-77.
+3.  Przeworski, Adam. 2015. Acquiring the Habit of Changing Governments Through Elections. Comparative Political Studies 48 (1): 101-129. http://cps.sagepub.com/content/48/1/101.abstract Contains statistical analysis.
 
-4.	Constable, Pamela and Arturo Valenzuela. 1993. A nation of enemies: Chile under Pinochet. WW Norton & Company. Chapters 1 and 3.
+4.	Gill, Graeme. 2006. A new turn to authoritarian Rule in Russia? Democratization 13 (1): 58-77. http://dx.doi.org/10.1080/13510340500378258
 
-5.	McNulty, Mel. 1999. The Collapse of Zaïre: Implosion, Revolution or External Sabotage? The Journal of Modern African Studies 37 (1). http://dx.doi.org/10.2307/161468
+5.	Constable, Pamela and Arturo Valenzuela. 1993. A nation of enemies: Chile under Pinochet. WW Norton & Company. Chapters 1 and 3. Chapter 1 may be more appropriate here. Other chapters are also useful.
 
-6.	Ansell, Ben, and David Samuels. 2010. Inequality and Democratization: A Contractarian Approach. Comparative Political Studies 43 (12): 1543-1574. http://dx.doi.org/10.1177/0010414010376915 
+6.	Ansell, Ben, and David Samuels. 2010. Inequality and Democratization: A Contractarian Approach. Comparative Political Studies 43 (12): 1543-1574. http://dx.doi.org/10.1177/0010414010376915 Contains statistical analysis.
 
-7.	Haggard, Stephan, and Robert Kaufman. 2012. Inequality and Regime Change: Democratic Transitions and the Stability of Democratic Rule. American Political Science Review 106 (03): 495-516.
+7.	Haggard, Stephan, and Robert Kaufman. 2012. Inequality and Regime Change: Democratic Transitions and the Stability of Democratic Rule. American Political Science Review 106 (03): 495-516. http://dx.doi.org/10.1017/s0003055412000287
 
-8.	Snyder, Richard. 1992. Explaining Transitions from Neopatrimonial Dictatorships. Comparative Politics 24 (4): 379-399. http://www.jstor.org/stable/422151 
+8.	One of the short articles in this report: POMEPS. 2015. The Arab Thermidor: The Resurgence of the Security State. Project on Middle East Political Science. http://pomeps.org/wp-content/uploads/2015/02/POMEPS_Studies_11_Thermidor_Web.pdf What explains regime change in the Middle East?
+
+9.  Bratton, Michael, and Nicolas van de Walle. 1994. Neopatrimonial Regimes and Political Transitions in Africa. World Politics 46 (04): 453-489. http://dx.doi.org/10.2307/2950715
+
+10. Boix, Carles. 2011. Democracy, Development, and the International System. American Political Science Review 105 (04): 809-828. http://dx.doi.org/10.1017/s0003055411000402
+
+
  
 ## Week 10: Violent and Non-violent revolution
 
 **Lecture 18: Tuesday, 19 May 2015: Violent and non-violent revolution**
 
+The popular image of revolution involves a great deal of violence, and some of the great revolutions (e.g., the Russian Revolution of 1917) were indeed accompanied by brutal civil wars. Yet many revolutions today do not involve much violence by revolutionaries. How has revolution changed, and why?
+
 **Lecture 19: Friday, 22 May 2015: Is non-violent revolution effective?**
+
+Many people believe that revolt against repressive non-democratic states requires violence. Is this belief justified?
 
 **Deadline: Friday, 22 May: Complete your assigned classification task by midnight through Blackboard**
 
@@ -316,27 +379,37 @@ The following readings need to be covered in EBPs by people whose IDs end in 3 (
 ### Additional readings
 
 The following readings need to be covered in EBPs by people whose IDs end in 2 (Tuesday) or 7 (Friday). See here for more details.
-3.	Collins, Randall. 2013. Tipping Point Revolutions and State Breakdown Revolutions. http://sociological-eye.blogspot.co.nz/2013/06/tipping-point-revolutions-and-state.html 
 
-4.	Colgan, Jeff. 2013. Domestic Revolutionary Leaders and International Conflict. World Politics 65 (4): 656-690. http://muse.jhu.edu/journals/world_politics/v065/65.4.colgan.html 
+1.	Collins, Randall. 2013. Tipping Point Revolutions and State Breakdown Revolutions. http://sociological-eye.blogspot.co.nz/2013/06/tipping-point-revolutions-and-state.html 
 
-5.	Celestino, Mauricio Rivera, and Kristian Skrede Gleditsch. 2013. Fresh carnations or all thorn, no rose? Nonviolent campaigns and transitions in autocracies. Journal of Peace Research 50 (3): 385-400. http://jpr.sagepub.com/content/50/3/385.abstract 
+2.	Colgan, Jeff. 2013. Domestic Revolutionary Leaders and International Conflict. World Politics 65 (4): 656-690. http://muse.jhu.edu/journals/world_politics/v065/65.4.colgan.html Contains statistics.
 
-6.	Bunce, Valerie J., and Sharon L. Wolchik. 2010. Defeating Dictators: Electoral Change and Stability in Competitive Authoritarian Regimes. World Politics 62 (01): 43-86. http://dx.doi.org/10.1017/S0043887109990207 
+3. Sutton, Jonathan, Charles R Butcher, and Isak Svensson. 2014. Explaining political jiu-jitsu: Institution-building and the outcomes of regime violence against unarmed protests. Journal of Peace Research 51 (5): 559-573. http://jpr.sagepub.com/content/51/5/559.abstract
 
-7.	Goodwin, Jeff, and Theda Skocpol. 1989. Explaining Revolutions in the Contemporary Third World. Politics & Society 17 (4): 489-509. http://pas.sagepub.com/content/17/4/489.short 
+4.	Celestino, Mauricio Rivera, and Kristian Skrede Gleditsch. 2013. Fresh carnations or all thorn, no rose? Nonviolent campaigns and transitions in autocracies. Journal of Peace Research 50 (3): 385-400. http://jpr.sagepub.com/content/50/3/385.abstract 
 
-8.	Goldstone, Jack. 2001. Toward a Fourth Generation of Revolutionary Theory. Annual Review of Political Science 4 (1): 139-187. http://dx.doi.org/10.1146/annurev.polisci.4.1.139 
+5.	Bunce, Valerie J., and Sharon L. Wolchik. 2010. Defeating Dictators: Electoral Change and Stability in Competitive Authoritarian Regimes. World Politics 62 (01): 43-86. http://dx.doi.org/10.1017/S0043887109990207 
 
-9.	Sebestyen, Victor. 2010. Revolution 1989: The Fall of the Soviet Empire. New York: Knopf Doubleday. Part III.
+6.	Goodwin, Jeff, and Theda Skocpol. 1989. Explaining Revolutions in the Contemporary Third World. Politics & Society 17 (4): 489-509. http://pas.sagepub.com/content/17/4/489.short 
 
-10.	Reno, William. 2005. The Politics of Violent Opposition in Collapsing States. Government and Opposition 40 (2): 127-151. http://www.blackwell-synergy.com/doi/abs/10.1111/j.1477-7053.2005.00147.x 
+7.	Goldstone, Jack. 2001. Toward a Fourth Generation of Revolutionary Theory. Annual Review of Political Science 4 (1): 139-187. http://dx.doi.org/10.1146/annurev.polisci.4.1.139 
+
+8.	Sebestyen, Victor. 2010. Revolution 1989: The Fall of the Soviet Empire. New York: Knopf Doubleday. Part III.
+
+9.	Reno, William. 2005. The Politics of Violent Opposition in Collapsing States. Government and Opposition 40 (2): 127-151. http://www.blackwell-synergy.com/doi/abs/10.1111/j.1477-7053.2005.00147.x 
+
+10. Schock, Kurt. 2013. The practice and study of civil resistance. Journal of Peace Research 50 (3): 277-290. http://jpr.sagepub.com/content/50/3/277.abstract
+
 
 ## Week 11: Contentious Politics and its Diffusion
 
 **Lecture 20: Tuesday, 26 May 2015: Contentious Politics and its Diffusion**
 
+Revolutions are typically contagious. How do people learn to revolt, and how does revolt spread, both within countries and across them? Does the internet help or hinder revolt?
+
 **Lecture 21: Friday, 29 May 2015: Tipping Points**
+
+How do people cross the "barrier of fear" in many authoritarian states? Why are revolutions so surprising, sometimes especially to participants?
 
 ### Basic readings
 
@@ -348,15 +421,15 @@ The following readings need to be covered in EBPs by people whose IDs end in 2 (
 
 The following readings need to be covered in EBPs by people whose IDs end in 1 (Tuesday) or 8 (Friday). See here for more details.
 
-2.	Rosenberg, Tina. 2011. Revolution U. Foreign Policy, 2011/02/16. http://www.foreignpolicy.com/articles/2011/02/16/revolution_u 
+1.	Rosenberg, Tina. 2011. Revolution U. Foreign Policy, 2011/02/16. http://www.foreignpolicy.com/articles/2011/02/16/revolution_u 
 
 3.	Beissinger, Mark. 2007. Structure and Example in Modular Political Phenomena: The Diffusion of Bulldozer/Rose/Orange/Tulip Revolutions. Perspectives on Politics 5 (02): 259-276. http://dx.doi.org/10.1017/S1537592707070776 
 
-4.	Harris, Kevan. 2012. The Brokered Exuberance of the Middle Class: An Ethnographic Analysis of Iran's 2009 Green Movement. Mobilization: An International Journal 17 (4): 435-455.
+4.	Harris, Kevan. 2012. The Brokered Exuberance of the Middle Class: An Ethnographic Analysis of Iran's 2009 Green Movement. Mobilization: An International Journal 17 (4): 435-455. http://www.metapress.com/content/hm3q725054052k85/
 
-5.	Holmes, Amy Austin. 2012. There Are Weeks When Decades Happen: Structure and Strategy in the Egyptian Revolution. Mobilization 17 (4): 319-410.
+5.	Holmes, Amy Austin. 2012. There Are Weeks When Decades Happen: Structure and Strategy in the Egyptian Revolution. Mobilization 17 (4): 319-410. http://mobilization.metapress.com/app/home/contribution.asp?referrer=parent&backto=issue,2,7;journal,9,60;linkingpublicationresults,1:119834,1
 
-6.	Tufekci, Zeynep. 2014. SOCIAL MOVEMENTS AND GOVERNMENTS IN THE DIGITAL AGE: EVALUATING A COMPLEX LANDSCAPE. Journal of International Affairs 68 (1).
+6.	Tufekci, Zeynep. 2014. Social Movements and Governments in the Digital Age: Evaluating a Complex Landscape. Journal of International Affairs 68 (1). http://jia.sipa.columbia.edu/social-movements-governments-digital-age-evaluating-complex-landscape/
 
 7.	Lynch, Marc. 2011. "After Egypt: The Limits and Promise of Online Challenges to the Authoritarian Arab State." Perspectives on Politics no. 9 (02):301-310. http://dx.doi.org/10.1017/s1537592711000910
 
@@ -368,11 +441,17 @@ The following readings need to be covered in EBPs by people whose IDs end in 1 (
 
 11.	Karklins, Rasma, and Roger Petersen. 1993. Decision Calculus of Protesters and Regimes: Eastern Europe 1989. The journal of politics 55 (3). http://www.jstor.org/stable/2131990 
 
+12. Gelvin, James L. 2012. The Arab uprisings : what everyone needs to know. New York: Oxford University Press. Chapter 2 or chapter 3. Narrative, with some analysis of the events in 2011; this book was recommended at the beginning of the term; this provides good background for some of the things we will be discussing.
+
 ## Week 12: Democratization and beyond
 
 **Lecture 22: Tuesday, 2 June 2015: Democratization**
 
+How does democratization happen? Can external support help democratization?
+
 **Lecture 23: Friday, 5 June 2015: Democratization and beyond**
+
+What are some of the most important problems newly democratizing governments must face? 
 
 ### Basic readings
 
@@ -382,11 +461,30 @@ The following readings need to be covered in EBPs by people whose IDs end in 1 (
 
 The following readings need to be covered in EBPs by people whose IDs end in 0 (Tuesday) or 9 (Friday). See here for more details.
 
-2.	Bermeo, Nancy. 1990. Review: Rethinking Regime Change. Comparative Politics 22 (3). http://dx.doi.org/10.2307/421966 
+1.	Bermeo, Nancy. 1990. Review: Rethinking Regime Change. Comparative Politics 22 (3). http://dx.doi.org/10.2307/421966 
 
-4.	Bratton, Michael, and Nicolas van de Walle. 1994. Neopatrimonial Regimes and Political Transitions in Africa. World Politics 46 (04): 453-489. http://dx.doi.org/10.2307/2950715 
+2.  Barany, Zoltan. 2013. Armies and Revolutions. Journal of Democracy 24 (2): 62-76. http://muse.jhu.edu/journals/journal_of_democracy/v024/24.2.barany.html
 
-5.	Liu, Yu, and Dingding Chen. 2011. "Why China Will Democratize." The Washington Quarterly no. 35 (1):41-63. http://dx.doi.org/10.1080/0163660x.2012.641918, http://www.tandfonline.com/doi/pdf/10.1080/0163660X.2012.641918
+3.  Ash, Timothy. 1998. The Truth About Dictatorship. The New York Review of Books 45 (3). http://www.nybooks.com/articles/934
+
+4.  Downes, Alexander, and Jonathan Monten. 2013. "Forced to Be Free?: Why Foreign-Imposed Regime Change Rarely Leads to Democratization." International Security no. 37 (4):90-131. http://dx.doi.org/10.1162/isec_a_00117
+
+5.	Mohamed Salih, M. A. 2007. African Liberation Movement Governments and Democracy. Democratization 14 (4): 669-685. http://dx.doi.org/10.1080/13510340701398337
+
+6.	Liu, Yu, and Dingding Chen. 2011. "Why China Will Democratize." The Washington Quarterly no. 35 (1):41-63. http://dx.doi.org/10.1080/0163660x.2012.641918, http://www.tandfonline.com/doi/pdf/10.1080/0163660X.2012.641918
+
+7.  Sebestyen, Victor. 2010. Revolution 1989: The Fall of the Soviet Empire. New York: Knopf Doubleday. Part III. Lots of fun stuff here.
+
+8.  Cotton, James. 1989. From authoritarianism to democracy in South Korea. Political Studies 37 (2): 244-259.
+
+9. Sikkink, Kathryn, and Carrie Walling. 2007. The Impact of Human Rights Trials in Latin America. Journal of Peace Research 44 (4): 427-445. http://dx.doi.org/10.1177/0022343307078953
+
+10. Scott, James M., and Ralph G. Carter. 2014. From Cold War to Arab Spring: mapping the effects of paradigm shifts on the nature and dynamics of US democracy assistance to the Middle East and North Africa. Democratization: 1-26. http://dx.doi.org/10.1080/13510347.2013.877893
+
+11. Walker, Scott. 2015. The Contingent Nature of Democracy Promotion. Political Studies Review 13 (1): 2-10. http://dx.doi.org/10.1111/1478-9302.12032
+
+12. Huntington, Samuel P. 1993. The Third Wave: Democratization in the Late Twentieth Century. Norman: University of Oklahoma Press. Chapter TBA.
+
 
 ## Study Period starts 8 June 2015
 

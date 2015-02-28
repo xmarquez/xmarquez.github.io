@@ -1,6 +1,6 @@
 ---
 title: "Information for Participants in Mock Trial of Hugo Chávez"
-output: html_document
+output: pdf_document
 ---
 
 There will be two teams, one for the defence and one for the prosecution. The entire trial will take place on Tuesday 31 March. Aside from a few minutes at the beginning (which I will use to explain the activity), you have the entire lecture/tutorial period for the trial. Make sure you know who your teammates are!

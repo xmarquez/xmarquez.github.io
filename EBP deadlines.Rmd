@@ -33,6 +33,6 @@ lecture.dates <- read.csv("lecture.dates.csv") %>%
 
 t <- xtable(t,digits=0,align = "rllcc")
 
-print(t, include.rownames=FALSE, type="html")
+print(t, include.rownames=FALSE,type="html")
 ```
 
