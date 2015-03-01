@@ -1,0 +1,16 @@
+{
+    "contents" : "---\ntitle: \"What's my EBP deadline?\"\noutput: html_document\n---\n```{r, echo=FALSE}\nlibrary(lubridate)\n```\n\nYou must post your EBPs to the blog (either http://politicalpathologies.blogspot.com or http://politicalpathologies2.blogspot.com, depending on which one you signed up to) by the deadlines indicated below. You need to sign up to the blog before your deadline by following the instructions on the e-mailed invite from [blogger](http://www.blogger.com); [contact me](mailto:xavier.marquez@vuw.ac.nz) if you did not receive the e-mail invite or are having trouble signing up or posting.\n\nThis list of deadlines is current as of `r format(today(), format = \"%A, %e %B %Y\")`. \n\n```{r, deadlines, echo=FALSE,warning=FALSE, message=FALSE, results='asis'}\nlibrary(dplyr)\nlibrary(scales)\nlibrary(xtable)\nBB <- read.csv(dir(pattern=\"gc_2015\"),fileEncoding =\"UTF-8-BOM\") %>% \n  filter(Availability == \"Yes\") %>%\n  mutate(Last.Name, \n         ID.ends = Student.ID %% 10) %>%\n  select(Last.Name,First.Name,Student.ID,ID.ends)\n\nlecture.dates <- read.csv(\"lecture.dates.csv\") %>% \n  mutate(start.date = mdy_hm(start.date)) %>%\n  select(start.date) %>%\n  mutate(ID.ends = c(NA,NA,0,9,1,8,2,7,NA,3,6,4,5,4,5,3,6,2,7,1,8,0,9)) %>%\n  rename(EBP.dates = start.date)\n\n t <- left_join(BB,lecture.dates) %>% \n  select(Last.Name,First.Name,ID.ends,EBP.dates) %>%\n  mutate(EBP.dates = format(EBP.dates, format = \"%a, %e %B %Y at %H:%M\")) %>% \n  rename(\"Last name\" = Last.Name, \"First name\" = First.Name, \"ID ends in\" = ID.ends, \"EBP deadlines\" = EBP.dates) \n\nt <- xtable(t,digits=0,align = \"rllcc\")\n\nprint(t, include.rownames=FALSE,type=\"html\")\n```\n\n",
+    "created" : 1425092659899.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2889918583",
+    "id" : "13C8F444",
+    "lastKnownWriteTime" : 1425092896,
+    "path" : "D:/save documents in here/Dropbox/Pols 209/xmarquez.github.io/EBP deadlines.Rmd",
+    "project_path" : "EBP deadlines.Rmd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}

@@ -1,0 +1,16 @@
+{
+    "contents" : "---\noutput: html_document\n---\n\n# POLS 209 Pages\n\n* [Deadlines for Explanatory Blog Posts, by last name](EBP_deadlines.html)\n* [Schedule of lectures and list of readings](Schedule_of_Lectures_and_List_of_Readings.html)\n* [Information for participants in Mock trial of Chavez](Information_for_Mock_Trial_Participants.html)\n\n",
+    "created" : 1424836878173.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2093904100",
+    "id" : "FD842FE7",
+    "lastKnownWriteTime" : 1424918870,
+    "path" : "D:/save documents in here/Dropbox/Pols 209/xmarquez.github.io/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}

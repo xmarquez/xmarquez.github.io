@@ -1,0 +1,17 @@
+{
+    "contents" : "---\noutput: html_document\n---\n\n# POLS 209 Pages\n\n* [Deadlines](EBP_deadlines.html)\n* [Schedule of lectures and list of readings](Schedule_of_Lectures_and_List_of_Readings.html)\n\n\n",
+    "created" : 1424762542262.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "371453956",
+    "id" : "299AAC90",
+    "lastKnownWriteTime" : 1424836945,
+    "path" : "~/Dropbox/Pols 209/xmarquez.github.io/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
